@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.source_files = 'TDFBatchOperation/Classes/*'
   s.public_header_files = 'TDFBatchOperation/Classes/*.h'
 
-  s.dependency 'TDFCoreProtocol', '~> 1.0'
+  s.dependency 'TDFCoreProtocol'
 
 
 end
